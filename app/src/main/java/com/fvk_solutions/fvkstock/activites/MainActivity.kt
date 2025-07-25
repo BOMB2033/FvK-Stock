@@ -1,10 +1,11 @@
-package com.fvk_solutions.fvkstock
+package com.fvk_solutions.fvkstock.activites
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.fvk_solutions.fvkstock.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
